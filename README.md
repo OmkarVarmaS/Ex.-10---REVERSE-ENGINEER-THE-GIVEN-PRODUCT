@@ -32,11 +32,19 @@
 
 ## Input:
 
+<img width="752" height="732" alt="image" src="https://github.com/user-attachments/assets/0da24c90-2b4b-4884-a218-c6a5fe8e36d1" />
+
+
 ### Output:
 
+<img width="1495" height="767" alt="image" src="https://github.com/user-attachments/assets/03950744-dd0f-416c-8976-ecd1a9045f1a" />
 
-### Name:
-### Register Number:
+
+<img width="936" height="335" alt="image" src="https://github.com/user-attachments/assets/ed316053-9f7f-4d77-bf5e-92085376f027" />
+
+
+### Name: Omkar Varma S
+### Register Number: 212224240108
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
